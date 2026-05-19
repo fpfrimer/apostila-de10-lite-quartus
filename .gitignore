@@ -1,0 +1,22 @@
+# LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# GHDL/build artifacts
+*.o
+*.exe
+work-obj*.cf
+
+# Quartus generated directories and local workspace state
+projeto/db/
+projeto/incremental_db/
+projeto/output_files/
+projeto/*.qws
+
+# Partial browser downloads
+*.crdownload
